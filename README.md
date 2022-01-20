@@ -1,7 +1,7 @@
 # lyrics_3
 
  歌詞単語の分布_GitHub_Colab_gDrive.ipynb_は、
-、Google_Colab_と、google_Drive_を、利用
+、Google_Colab_とgoogle_Drive_を利用
 _google_Drive_に、lyrics_list.zip、word_list.zip、を解凍してフォルダで置く、_L1_edit.txt_は、ファイルで置く、
 
 小学生単語E1、中学生単語A1A2(CEFR-J)、高学生単語B1(CEFR-J)、大学生単語B2(CEFR-J)、L1、で歌詞単語の、ある、ない、表示
